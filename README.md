@@ -1,6 +1,8 @@
 # predictor-tool
 Tool to predict weekly matchup results and final season standings in my 30 team NBA dynasty league
 
+![screen shot 2017-02-23 at 3 06 14 pm](https://cloud.githubusercontent.com/assets/25812226/23283801/41b1a16c-f9e5-11e6-8da3-196652cefc96.png)
+
 # Motivation
 Playing Fantasy sports is one of my passions. I am involved in multiple leagues, one of which mimics the real life NBA setup
 of 30 teams.
