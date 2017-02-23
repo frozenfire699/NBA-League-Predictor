@@ -20,7 +20,7 @@ and eventually used the weekly results and extrapolate them to season wise resul
 #Locally
 1) Download the project
 2) Set it up as a Java project in eclipse ( JDK 1.5 or above )
-3) Use the Lowry.xls file test folder and copy it anywhere on your system
+3) Use the Lowry.xls file inside test folder and copy it anywhere on your system
 4) Use the downloaded location path and update the value of excelFilePath and excelOutFilePath variable inside XLFunctions.java
 5) Run UpdateSheets - This will update all 30 teams rosters based on the master sheet in the excel file
 6) Run UpdateWeeklyRosters - This will load the weekly schdule of teams from Games sheet and generate a section of weekly stats
